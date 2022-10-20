@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama_charisma_yoga_putra">Nama : Charisma Yoga Putra</string>
+    <string name="nim_a11_2021_13535">NIM : A11.2021.13535</string>
+    <string name="hobi_menonton_film_membaca_komik">Hobi : Menonton Film, Membaca Komik</string>
+    <string name="deskripsi_tugas_membuat_aplikasi_biodata">Deskripsi : Tugas Membuat Aplikasi Biodata</string>
+</resources>
